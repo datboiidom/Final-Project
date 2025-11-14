@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(128, 0, 32)
+
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+     font-size: 40px;
+      filter: drop-shadow(2px 20px 3px rgb(0, 0, 0));
+    color: rgb(0, 191, 255);
+    height: 30vh;
+    
+    
+    
+}
+
+#Other {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 0%;
+    right: 0px;
+    
+}
+
+#footer {
+    font: message-box;
+    font-size: 20px;
+    color: rgb(230, 230, 250);
+    
+
+    
+    
+}
